@@ -1,0 +1,68 @@
+{
+    "name": "Teresha Tampubolon",
+    "age": 20,
+    "address": "Jalan Kenari Raya 2 no 4 Medan",
+    "hobbies": ["Singing", "Dancing", "Programming", "Jogging"],
+    "is_married": false, 
+    "list_school": [
+        {
+            "name": "Institut Teknologi Del",
+            "year_in": "2018",
+            "year_out": "2021",
+            "major": "Information Technology"
+        },
+        {
+            "name": "SMA Negeri 5 Medan",
+            "year_in": "2015",
+            "year_out": "2018",
+            "major": null
+        },
+        {
+            "name": "SMP Katholik Trisakti 2 Medan",
+            "year_in": "2012",
+            "year_out": "2015",
+            "major": null
+        },
+        {
+            "name": "SD Parulian 2 Medan",
+            "year_in": "2006",
+            "year_out": "2012",
+            "major": null
+        }
+    ],
+    "skills": [
+        {
+            "skill_name": "C language",
+            "level": "advanced"
+        },
+        {
+            "skill_name": "English",
+            "level":"advanced"
+        }
+        {
+            "skill_name": "PHP",
+            "level": "advanced"
+        },
+        {
+            "skill_name": "HTML & CSS",
+            "level": "advanced"
+        },
+        {
+            "skill_name": "JAVA",
+            "level": "advanced"
+        },
+        {
+            "skill_name": "MySQL",
+            "level": "advanced"
+        },
+        {
+            "skill_name": "Laravel ",
+            "level": "beginner"
+        },
+        {
+            "skill_name": "Testing UI",
+            "level": "beginner"
+        }
+    ],
+    "interest_in_coding": true
+}
